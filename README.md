@@ -4,6 +4,8 @@ description: 'To my Horses, Dragon, Tiger.'
 
 # Start
 
+\*\*\*\*[**You can download the .epub version by clicking here.**](https://www.dropbox.com/s/mk3cgwogz7qwlz0/Human%20Machine%20Alpha.epub?dl=0)\*\*\*\*
+
 Xavier Niel is the most respected french entrepreneur. He owes his reputation to his approachable attitude as well as the intense and singular pace of his actions. Not only he is the founder and majority shareholders \(is not solde owner\) of Iliad, 42, Station F and Kima Ventures, he is also an intense character who personally answers, in record time, to more than a thousand emails every single day. Although his implicit management style can be somewhat challenging for the people working with him, he gives them his trust in daring decisions for them to push the boundaries towards ambitious goals and thrive alongside him.
 
 I am one of those lucky fellows, as part of Kima Ventures and Max, two of his Venture Capital initiatives bound to invest in the best french founders in tech, worldwide.
